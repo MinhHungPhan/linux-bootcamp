@@ -4,6 +4,7 @@
 
 - [Introduction](#introduction)
 - [What is a Linux Distribution](#what-is-a-linux-distribution)
+- [Major Linux Distribution Families](#major-linux-distribution-families)
 - [Choosing the Right Linux Distribution](#choosing-the-right-linux-distribution)
     - [Red Hat Enterprise Linux (RHEL)](#red-hat-enterprise-linux-rhel)
     - [Ubuntu](#ubuntu)
@@ -108,6 +109,14 @@ A Linux distribution is a complete operating system that consists of the Linux k
 
 © Minh Hung Phan
 ```
+
+## Major Linux Distribution Families
+
+The families and representative distributions we are going to explore are:
+
+- Red Hat Family Systems (including CentOS and Fedora)
+- SUSE Family Systems (including openSUSE)
+- Debian Family Systems (including Ubuntu and Linux Mint).
 
 ## Choosing the Right Linux Distribution
 
